@@ -1,7 +1,10 @@
 
 # Personalized Arxiv-Sanity-Preserver (on categories)
 
-Original code can be found at: https://github.com/karpathy/arxiv-sanity-preserver
+Modification of categories to add all papers from https://arxiv.org/archive/stat and remove cs.CV, etc.
+Original code can be found at: https://github.com/karpathy/arxiv-sanity-preserver.
+
+# Original README content
 
 ### Code layout
 
