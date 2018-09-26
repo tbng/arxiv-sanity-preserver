@@ -1,12 +1,13 @@
 # Personalized Arxiv-Sanity-Preserver (on categories)
 
 Modification of default categories to add all papers from https://arxiv.org/archive/stat and remove cs.CV, etc. Included default categories are:
-	* stat.ML: Machine Learning (Classification, Graphical Models, High Dimensional Inference)
-	* stat.ME: Methodology (Design, Surveys, Model Selection, Multiple Testing, Multivariate Methods, Signal and Image Processing, Time Series, Smoothing, Spatial Statistics, Survival Analysis, Nonparametric and Semiparametric Methods)
-	* stat.TH: Statistics Theory (Asymptotics, Bayesian Inference, Decision Theory, Estimation, Foundations, Inference, Testing)
-	* stat.AP: Applications (Biology, Education, Epidemiology, Engineering, Environmental Sciences, Medical, Physical Sciences, Quality Control, Social Sciences)
-	* stat.CO: Computation (Algorithms, Simulation, Visualization)
-	* cs.LG: Machine Learning (Covers machine learning and computational (PAC) learning. Roughly includes material in ACM Subject Class I.2.6.)
+
+* stat.ML: Machine Learning (Classification, Graphical Models, High Dimensional Inference)
+* stat.ME: Methodology (Design, Surveys, Model Selection, Multiple Testing, Multivariate Methods, Signal and Image Processing, Time Series, Smoothing, Spatial Statistics, Survival Analysis, Nonparametric and Semiparametric Methods)
+* stat.TH: Statistics Theory (Asymptotics, Bayesian Inference, Decision Theory, Estimation, Foundations, Inference, Testing)
+* stat.AP: Applications (Biology, Education, Epidemiology, Engineering, Environmental Sciences, Medical, Physical Sciences, Quality Control, Social Sciences)
+* stat.CO: Computation (Algorithms, Simulation, Visualization)
+* cs.LG: Machine Learning (Covers machine learning and computational (PAC) learning. Roughly includes material in ACM Subject Class I.2.6.)
 
 Original code can be found at: https://github.com/karpathy/arxiv-sanity-preserver.
 
